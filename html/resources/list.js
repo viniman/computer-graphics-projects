@@ -1,5 +1,12 @@
 var list = {
 	"en": {
+		"Works": {
+			"Aula 1":  {
+				"Exercício 1": "works/aula01_ex01",
+				"Exercício 2": "works/aula01_ex02",
+				"Exercício 3": "works/aula01_ex03",
+			},
+		},
 		"Projects": {
 			"Basics":  {
 				"Basic Scene": "html/basicSceneInfo",
